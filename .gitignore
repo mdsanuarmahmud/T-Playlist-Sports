@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data outputs (don't commit generated outputs unless intended)
+data/sports_channels.json
+data/playlists/
+
+# VS Code
+.vscode/
