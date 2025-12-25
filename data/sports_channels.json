@@ -6,9 +6,9 @@
     "group-title": "Sports",
     "stream": "https://tvsen7.aynaott.com/tsportshd/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1766702379,
+    "fetched_at": 1766703056,
     "alive": true,
-    "latency_ms": 1370,
+    "latency_ms": 861,
     "check_error": null
   }
 ]
