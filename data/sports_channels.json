@@ -4,11 +4,11 @@
     "name": "T Sports (720p)",
     "tvg-logo": "https://i.imgur.com/2JzlorD.png",
     "group-title": "Sports",
-    "stream": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+    "stream": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1780702901,
+    "fetched_at": 1780709632,
     "alive": true,
-    "latency_ms": 962,
+    "latency_ms": 925,
     "check_error": null
   }
 ]
