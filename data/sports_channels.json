@@ -6,9 +6,9 @@
     "group-title": "Sports",
     "stream": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1783769941,
+    "fetched_at": 1783773480,
     "alive": false,
     "latency_ms": null,
-    "check_error": "HTTPSConnectionPool(host='tvsen7.aynaott.com', port=443): Max retries exceeded with url: /tsports-hd/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fab2a6c0450>, 'Connection to tvsen7.aynaott.com timed out. (connect timeout=10)'))"
+    "check_error": "HTTPSConnectionPool(host='tvsen7.aynaott.com', port=443): Max retries exceeded with url: /tsports-hd/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd29b528250>, 'Connection to tvsen7.aynaott.com timed out. (connect timeout=10)'))"
   }
 ]
