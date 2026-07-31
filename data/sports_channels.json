@@ -1,14 +1,14 @@
 [
   {
     "channel_id": "TSports.bd@SD",
-    "name": "T Sports (720p)",
+    "name": "T Sports (1080p)",
     "tvg-logo": "https://i.imgur.com/2JzlorD.png",
     "group-title": "Sports",
-    "stream": "https://trs1.aynaott.com/tsports/index.m3u8",
+    "stream": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1785454937,
-    "alive": false,
-    "latency_ms": null,
-    "check_error": "status_404"
+    "fetched_at": 1785460418,
+    "alive": true,
+    "latency_ms": 763,
+    "check_error": null
   }
 ]
