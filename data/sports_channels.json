@@ -6,7 +6,7 @@
     "group-title": "Sports",
     "stream": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1787385065,
+    "fetched_at": 1787386353,
     "alive": false,
     "latency_ms": null,
     "check_error": "HTTPSConnectionPool(host='tvsen5.aynaott.com', port=443): Read timed out. (read timeout=10)"
