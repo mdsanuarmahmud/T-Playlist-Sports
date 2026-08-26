@@ -6,9 +6,9 @@
     "group-title": "Sports",
     "stream": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1787722839,
+    "fetched_at": 1787724277,
     "alive": true,
-    "latency_ms": 998,
+    "latency_ms": 924,
     "check_error": null
   }
 ]
