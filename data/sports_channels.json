@@ -6,9 +6,9 @@
     "group-title": "Sports",
     "stream": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
     "extra_lines": [],
-    "fetched_at": 1794647143,
+    "fetched_at": 1794671074,
     "alive": false,
     "latency_ms": null,
-    "check_error": "status_404"
+    "check_error": "HTTPSConnectionPool(host='tvsen5.aynaott.com', port=443): Max retries exceeded with url: /TnMn5kZz8aLm/index.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x711e56fa9cd0>, 'Connection to tvsen5.aynaott.com timed out. (connect timeout=10)'))"
   }
 ]
